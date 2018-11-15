@@ -6,7 +6,7 @@
 
 ##### Prerequisite
 * python3.6  
-* Pytorch0.4
+* Pytorch0.4.1
 * matplotlib 2.2.2
 
 ##### To download the data:
