@@ -15,7 +15,7 @@
 ##### Train
 * Import run.py file from the jupyter notebook. (An example is example.ipynb)
 
-### Training Time
+##### Training Time
 28 hours on GTX 1080 Ti (12 GB)
 
 ##### Test link will be released soon.
